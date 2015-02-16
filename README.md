@@ -37,7 +37,7 @@ Allows transporting one person at a time. Elevator takes request and handles it.
 </p>
 <p>
 <b>MODE B:</b><br/>
-Acknowledges commands in sequence, transporting more people at a time. If consequtive request to travel in same direction are received, the elevator can handle them all in one trip.
+Acknowledges commands in sequence, transporting more people at a time. If consecutive request to travel in same direction are received, the elevator can handle them all in one trip.
 </p>
 
 Sample:
